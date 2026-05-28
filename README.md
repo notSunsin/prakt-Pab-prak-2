@@ -1,7 +1,12 @@
-# prakt2
+# prak2
 
-A new Flutter project.
+# **TUGAS PRAKTIKUM 2 PRAKTIKUM PAB 2026**
 
+NAMA : MUHAMMAD RIZKY H
+
+NIM : 1462300237
+
+SESI : PAB - 3
 ## Getting Started
 
 This project is a starting point for a Flutter application.
